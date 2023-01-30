@@ -6,7 +6,7 @@
 [![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus)
 [![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
 
-Modules for Ambrosinus-Toolkit and its new Grasshopper components
+Python modules for Ambrosinus-Toolkit and its new Grasshopper components
 
 <div align="center">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/logo_AT-AD-02.png" width="30%" height="30%">
