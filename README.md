@@ -1,2 +1,2 @@
 # AToolkitDpt
-Midas modules for Ambrosinus-Toolkit Grasshopper components
+Modules for Ambrosinus-Toolkit Grasshopper components
