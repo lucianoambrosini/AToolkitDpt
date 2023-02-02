@@ -7,6 +7,8 @@
 [![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus)
 [![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
 
+**This Module will be part of Ambrosinus-Toolkit v1.1.6**
+
 This is a Python package for the DPT component/s included in the Ambrosinus-Toolkit a Grasshopper Plugin. 
 
 *All credit to each author that developed these Midas scripts.*
