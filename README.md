@@ -8,7 +8,7 @@
 
 **This Module will be part of Ambrosinus-Toolkit v1.1.9/1.2.0**
 
-This is a Python package for the DPT component/s included in the Ambrosinus-Toolkit a Grasshopper Plugin. 
+This is a Python package for the "DPTto3D" component included in the Ambrosinus-Toolkit a Grasshopper Plugin. 
 
 *All credit to each author that developed these Midas scripts.*
 
