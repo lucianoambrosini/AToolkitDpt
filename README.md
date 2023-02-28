@@ -22,7 +22,7 @@ Every file is under the MIT licence.
 </div>
 <br>
 
-**Requirements**
+## Requirements
 
 In order to run the DPTto3D component (subcategory AI) some python libraries are necessary as the other AI tools, for this reason, I have shared a "requirements.txt" file allowing the designer in this step in a unique command line from cmd.exe (Windows OS side). After downloading the file to a custom folder (I suggest in C:/CustomFolder or something like that) run the following command from cmd.exe after logging in the "CustomFolder": *pip install -r requirements.txt*
 <br>
@@ -30,6 +30,22 @@ In order to run the DPTto3D component (subcategory AI) some python libraries are
 <div align="center">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/02/cmd_installation.jpg" width="90%" height="90%">
 </div>
+
+<br>
+
+## Download at least one of these "weights models" a pre-trained datasets by [Intel Labs Research Team](https://github.com/isl-org) 
+
+**MiDaS 3.1**
+
+For highest quality [dpt_beit_large_512](https://github.com/isl-org/MiDaS/releases/download/v3_1/dpt_beit_large_512.pt)
+
+For moderately less quality, but better speed-performance trade-off: [dpt_swin2_large_384](https://github.com/isl-org/MiDaS/releases/download/v3_1/dpt_swin2_large_384.pt)
+
+For embedded devices: [dpt_swin2_tiny_256](https://github.com/isl-org/MiDaS/releases/download/v3_1/dpt_swin2_tiny_256.pt), [dpt_levit_224](https://github.com/isl-org/MiDaS/releases/download/v3_1/dpt_levit_224.pt)
+
+**MiDaS 3.0**: Legacy transformer models [dpt_large_384](https://github.com/isl-org/MiDaS/releases/download/v3/dpt_large_384.pt) and [dpt_hybrid_384](https://github.com/isl-org/MiDaS/releases/download/v3/dpt_hybrid_384.pt)
+
+**MiDaS 2.1**: Legacy convolutional models [midas_v21_384](https://github.com/isl-org/MiDaS/releases/download/v2_1/midas_v21_384.pt) and [midas_v21_small_256](https://github.com/isl-org/MiDaS/releases/download/v2_1/midas_v21_small_256.pt)
 
 <br>
 <br>
