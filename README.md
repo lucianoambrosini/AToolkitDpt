@@ -1,4 +1,3 @@
-# UNDER CONSTRUCTION
 # Midas modules for Ambrosinus-Toolkit
 
 [![GitHub release](https://img.shields.io/badge/release-v0.0.1-blue)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
