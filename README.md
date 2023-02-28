@@ -21,6 +21,16 @@ Every file is under the MIT licence.
 <div align="center">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/logo_AT-AD-02.png" width="30%" height="30%">
 </div>
+<br>
+
+**Requirements**
+
+In order to run the DPTto3D component (subcategory AI) some python libraries are necessary as the other AI tools, for this reason, I have shared a "requirements.txt" file allowing the designer in this step in a unique command line from cmd.exe (Windows OS side). After downloading the file to a custom folder (I suggest in C:/CustomFolder or something like that) run the following command from cmd.exe after logging in the "CustomFolder": *pip install -r requirements.txt*
+<br>
+
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/02/cmd_installation.jpg" width="90%" height="90%">
+</div>
 
 <br>
 <br>
