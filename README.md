@@ -24,7 +24,7 @@ Every file is under the MIT licence.
 
 ## Requirements
 
-In order to run the DPTto3D component (subcategory AI) some python libraries are necessary as the other AI tools, for this reason, I have shared a "requirements.txt" file allowing the designer in this step in a unique command line from cmd.exe (Windows OS side). After downloading the file to a custom folder (I suggest in C:/CustomFolder or something like that) run the following command from cmd.exe after logging in the "CustomFolder": *pip install -r requirements.txt*
+In order to run the DPTto3D component (subcategory AI) some python libraries are necessary as the other AI tools, for this reason, I have shared a ["requirements.txt"](https://raw.githubusercontent.com/lucianoambrosini/AToolkitDpt/main/requirements.txt)(right click "Save as") file allowing the designer in this step in a unique command line from cmd.exe (Windows OS side). After downloading the file to a custom folder (I suggest in C:/CustomFolder or something like that) run the following command from cmd.exe after logging in the "CustomFolder": *pip install -r requirements.txt*
 <br>
 
 <div align="center">
