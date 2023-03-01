@@ -51,10 +51,4 @@ For embedded devices: [dpt_swin2_tiny_256](https://github.com/isl-org/MiDaS/rele
 <br>
 
 ### Info components
-https://github.com/lucianoambrosini/Ambrosinus-Toolkit/wiki
-
-<div align="center">
-<img src="" width="30%" height="30%">
-</div>
-
-*Check DEV Log Status* [at the bottom of this page](https://ambrosinus.altervista.org/blog/ambrosinus-toolkit/)
+[Article on my website]()
