@@ -51,4 +51,4 @@ For embedded devices: [dpt_swin2_tiny_256](https://github.com/isl-org/MiDaS/rele
 <br>
 
 ### Info components
-[Article on my website]()
+[Article on my website](https://bit.ly/LA-WYSIWYTfromDPTto3D)
